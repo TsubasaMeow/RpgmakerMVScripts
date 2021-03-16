@@ -11,26 +11,26 @@ Tsubasa.TBS_ButtonToCommonEvent = Tsubasa.TBS_ButtonToCommonEvent || {}
  * @param Q
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘Q对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @param W
  * @type number
  * @min 0
- * @desc 键盘B对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘W对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  *
  * @param E
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘E对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @param R
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘R对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @param A
@@ -42,19 +42,19 @@ Tsubasa.TBS_ButtonToCommonEvent = Tsubasa.TBS_ButtonToCommonEvent || {}
  * @param S
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘S对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @param D
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘D对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @param F
  * @type number
  * @min 0
- * @desc 键盘A对应公共事件编号,0表示没有,最大为10000
+ * @desc 键盘F对应公共事件编号,0表示没有,最大为10000
  * @default 0
  *
  * @help
