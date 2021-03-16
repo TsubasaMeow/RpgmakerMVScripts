@@ -1,2 +1,2 @@
-# RpgmakerMVScripts
-Scripts of RpgmakerMV
+# RpgmakerMV的脚本
+# Scripts of RpgmakerMV
